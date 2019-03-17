@@ -231,4 +231,3 @@ print(result)
 
 ##################################### End of homework of lecture 3 ###########################
 
-Test
